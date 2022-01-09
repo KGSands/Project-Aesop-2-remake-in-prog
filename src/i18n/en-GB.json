@@ -1,0 +1,8 @@
+{
+    "translation": {
+        "game": {
+            "phase": "Phase {{currentPhase}} / {{phaseTotal}}",
+            "submit": "Submit"
+        }
+    }
+}
